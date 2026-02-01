@@ -28,7 +28,6 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
   <img src="https://img.shields.io/badge/crossplane-%23F54C1E.svg?style=for-the-badge&logo=crossplane&logoColor=white" />
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
 ### 🌐 Network Infrastructure
