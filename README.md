@@ -4,7 +4,7 @@
 
 Professional SRE leader with 20+ years of experience. I specialize in the intersection of **High-Performance Computing (Rust/C++)**, **Cloud-Native Resilience (Kubernetes)**, and **Cost Intelligence (FinOps/AIOps)**. Currently pioneering self-healing platforms at Talkdesk.
 
-[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#-featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -31,20 +31,21 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
 
 ### Featured Infrastructure Projects
 
-#### [Prophet](https://github.com/holynakamoto/prophet) | **AIOps Multi-Cloud Engine**
-A predictive, self-diagnosing GitOps system using Karpenter to transform Kubernetes into a semi-autonomous operator.
+#### [Backstage Platform](https://github.com/holynakamoto/backstage-platform) | **Developer Portal**
+Internal developer portal built on Backstage for service catalog management and developer self-service.
 
-#### [Blitz Gateway](https://github.com/holynakamoto/blitz) | **Zig-based HTTP3/QUIC Gateway**
-Ultra-low latency gateway built with **Zig** and **WASM** for high-throughput edge computing.
+#### [AWS VPC Crossplane](https://github.com/holynakamoto/aws-vpc-crossplane) | **Infrastructure as Code**
+Crossplane compositions for declarative AWS VPC provisioning with GitOps-native infrastructure management.
 
-#### [Luxor Cloud Weaver](https://github.com/holynakamoto/luxor) | **Rust Network Overlay**
-Dynamic tenant provisioning service using VXLAN and Rust/Axum for L2 overlay networks.
+#### [NgAISoc](https://github.com/holynakamoto/ngaisoc) | **AI Security Operations**
+Next-generation AI-powered security operations platform for automated threat detection and response.
 
 ---
 
 ### Certifications & Education
 * **CKA** (Certified Kubernetes Administrator)
 * **CCIE** (Routing & Switching)
+* **HashiCorp Certified: Terraform Associate**
 * **B.S. Computer Science** - University of Washington
 
 ### Get In Touch
