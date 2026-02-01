@@ -1,16 +1,58 @@
-## Hi there 👋
+# Nick Moore | Principal SRE & Kubernetes Architect
 
-<!--
-**holynakamoto/holynakamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building hyper-scalable infrastructure that powers millions of users.**
 
-Here are some ideas to get you started:
+Professional SRE leader with 20+ years of experience. I specialize in the intersection of **High-Performance Computing (Rust/C++)**, **Cloud-Native Resilience (Kubernetes)**, and **Cost Intelligence (FinOps/AIOps)**. Currently pioneering self-healing platforms at Talkdesk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#-featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+### Core Stack & Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Orchestration** | Kubernetes (EKS), Karpenter, Helm, ArgoCD, Golang Operators |
+| **Cloud & Scaling** | AWS (Lambda, Fargate), Azure, Multi-region DR, FinOps |
+| **Observability** | AIOps, Datadog (APM), Prometheus, Grafana, SLO/SLI Tuning |
+| **Networking** | Service Mesh (Istio, Cilium), RoCEv2, InfiniBand, BGP/MPLS |
+| **Infrastructure** | Terraform, Terragrunt, Crossplane, GitOps, Zig, Rust |
+
+---
+
+### High-Impact Results
+
+* **Cost Optimization:** Saved **$500k/year** by implementing FinOps-integrated Karpenter scaling on EKS.
+* **Reliability:** Delivered **99.999% SLOs** for multi-region platforms via Chaos Engineering.
+* **Performance:** Reduced P99 latency by **30%** through Cilium CNI tuning for Rust/C++ services.
+* **Efficiency:** Achieved a **60% reduction** in false-positive alerts using ML-driven anomaly detection.
+
+---
+
+### Featured Infrastructure Projects
+
+#### [Prophet](https://github.com/holynakamoto/prophet) | **AIOps Multi-Cloud Engine**
+A predictive, self-diagnosing GitOps system using Karpenter to transform Kubernetes into a semi-autonomous operator.
+
+#### [Blitz Gateway](https://github.com/holynakamoto/blitz) | **Zig-based HTTP3/QUIC Gateway**
+Ultra-low latency gateway built with **Zig** and **WASM** for high-throughput edge computing.
+
+#### [Luxor Cloud Weaver](https://github.com/holynakamoto/luxor) | **Rust Network Overlay**
+Dynamic tenant provisioning service using VXLAN and Rust/Axum for L2 overlay networks.
+
+---
+
+### Certifications & Education
+* **CKA** (Certified Kubernetes Administrator)
+* **CCIE** (Routing & Switching)
+* **B.S. Computer Science** - University of Washington
+
+### Get In Touch
+* **Email:** [nick.moore@pm.me](mailto:nick.moore@pm.me)
+* **Location:** Littleton, CO / Remote
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=holynakamoto&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
