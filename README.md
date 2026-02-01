@@ -40,6 +40,16 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
   <img src="https://img.shields.io/badge/InfiniBand-%23005480.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/RoCEv2-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+### 🔭 Telemetry & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-%23333333.svg?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
 ---
 
 ### Core Stack & Expertise
