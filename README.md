@@ -8,6 +8,28 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
 
 ---
 
+### 🛠️ Languages & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+---
+
 ### Core Stack & Expertise
 
 | Category | Technologies |
@@ -37,8 +59,8 @@ Internal developer portal built on Backstage for service catalog management and 
 #### [AWS VPC Crossplane](https://github.com/holynakamoto/aws-vpc-crossplane) | **Infrastructure as Code**
 Crossplane compositions for declarative AWS VPC provisioning with GitOps-native infrastructure management.
 
-#### [NexGen-AI SoC](https://github.com/holynakamoto/nexgen-ai-soc) | **GPU SoC Architecture**
-High-performance, scalable GPU System-on-Chip architecture optimized for AI workloads in data center environments. Demonstrates architectural definition, performance/power trade-offs, and subsystem specification.
+#### [NexGen-AI SoC](https://github.com/holynakamoto/ngaisoc) | **GPU SoC Architecture**
+High-performance, scalable GPU System-on-Chip architecture optimized for AI workloads. Demonstrates architectural definition, performance/power trade-offs, and subsystem specification.
 
 ---
 
@@ -55,5 +77,10 @@ High-performance, scalable GPU System-on-Chip architecture optimized for AI work
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holynakamoto&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=holynakamoto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holynakamoto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+```
+
+**Next Step:** Would you like me to generate a custom tech-themed profile banner to sit at the very top of the page?
