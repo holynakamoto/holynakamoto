@@ -103,13 +103,6 @@ High-performance, scalable GPU System-on-Chip architecture optimized for AI work
 * **Email:** [nick.moore@pm.me](mailto:nick.moore@pm.me)
 * **Location:** Littleton, CO / Remote
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holynakamoto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holynakamoto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ```
 
 **Next Step:** Would you like me to generate a custom tech-themed profile banner to sit at the very top of the page?
