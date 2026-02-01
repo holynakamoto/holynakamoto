@@ -8,59 +8,56 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
 
 ---
 
-### 🛠️ Languages & Tooling
+### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Orchestration
 <p align="left">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Fargate-%23FF9900.svg?style=for-the-badge&logo=aws-fargate&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/crossplane-%23F54C1E.svg?style=for-the-badge&logo=crossplane&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%230F1628.svg?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
-### 🌐 Network Infrastructure
+### 🏗️ Infrastructure as Code & GitOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Juniper-%236CBD45.svg?style=for-the-badge&logo=junipernetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arista-%23005DA9.svg?style=for-the-badge&logo=aristanetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Palo_Alto-%230091D1.svg?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/terragrunt-%234CA4E4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/crossplane-%23F54C1E.svg?style=for-the-badge&logo=crossplane&logoColor=white" />
+  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🌐 Network & Service Mesh
+<p align="left">
+  <img src="https://img.shields.io/badge/Istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium-%23F2F2F2.svg?style=for-the-badge&logo=cilium&logoColor=3F45F0" />
   <img src="https://img.shields.io/badge/InfiniBand-%23005480.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/RoCEv2-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Juniper-%236CBD45.svg?style=for-the-badge&logo=junipernetworks&logoColor=white" />
 </p>
 
-### 🔭 Telemetry & Observability
+### 🔭 Telemetry & Strategic Ops
 <p align="left">
   <img src="https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-%23333333.svg?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FinOps-%2300ADD8.svg?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIOps-%23FF6F61.svg?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
 </p>
----
-
-### Core Stack & Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Orchestration** | Kubernetes (EKS), Karpenter, Helm, ArgoCD, Golang Operators |
-| **Cloud & Scaling** | AWS (Lambda, Fargate), Azure, Multi-region DR, FinOps |
-| **Observability** | AIOps, Datadog (APM), Prometheus, Grafana, SLO/SLI Tuning |
-| **Networking** | Service Mesh (Istio, Cilium), RoCEv2, InfiniBand, BGP/MPLS |
-| **Infrastructure** | Terraform, Terragrunt, Crossplane, GitOps, Zig, Rust |
-
 ---
 
 ### High-Impact Results
