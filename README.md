@@ -4,7 +4,7 @@
 
 Professional SRE leader with 20+ years of experience. I specialize in the intersection of **High-Performance Computing (Rust/C++)**, **Cloud-Native Resilience (Kubernetes)**, and **Cost Intelligence (FinOps/AIOps)**. Currently pioneering self-healing platforms at Talkdesk.
 
-[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/nickmoore-sre)
 
 ---
 
@@ -37,8 +37,8 @@ Internal developer portal built on Backstage for service catalog management and 
 #### [AWS VPC Crossplane](https://github.com/holynakamoto/aws-vpc-crossplane) | **Infrastructure as Code**
 Crossplane compositions for declarative AWS VPC provisioning with GitOps-native infrastructure management.
 
-#### [NgAISoc](https://github.com/holynakamoto/ngaisoc) | **AI Security Operations**
-Next-generation AI-powered security operations platform for automated threat detection and response.
+#### [NexGen-AI SoC](https://github.com/holynakamoto/nexgen-ai-soc) | **GPU SoC Architecture**
+High-performance, scalable GPU System-on-Chip architecture optimized for AI workloads in data center environments. Demonstrates architectural definition, performance/power trade-offs, and subsystem specification.
 
 ---
 
