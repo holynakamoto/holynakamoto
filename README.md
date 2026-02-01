@@ -31,6 +31,15 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
   <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
+### 🌐 Network Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Juniper-%236CBD45.svg?style=for-the-badge&logo=junipernetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arista-%23005DA9.svg?style=for-the-badge&logo=aristanetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palo_Alto-%230091D1.svg?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/InfiniBand-%23005480.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RoCEv2-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 ---
 
 ### Core Stack & Expertise
