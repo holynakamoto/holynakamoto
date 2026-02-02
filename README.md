@@ -8,6 +8,25 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
 
 ---
 
+### 🔥 Currently Working On
+
+- **[Prophet](https://github.com/holynakamoto/prophet)** — AIOps-powered GitOps monorepo for predictive scaling & self-healing K8s
+- **[Blitz Gateway](https://github.com/holynakamoto/blitz-gateway)** — HTTP3/QUIC gateway in Zig + WASM (performance experiments)
+- **GPU Autoscaling** — Custom K8s controller for workload-aware GPU scheduling
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=holynakamoto&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holynakamoto&theme=dark&hide_border=true" height="165" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=holynakamoto&theme=github-dark&hide_border=true&area=true" width="100%" />
+
+---
+
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -69,6 +88,7 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
   <img src="https://img.shields.io/badge/FinOps-%2300ADD8.svg?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
   <img src="https://img.shields.io/badge/AIOps-%23FF6F61.svg?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
 </p>
+
 ---
 
 ### High-Impact Results
@@ -82,6 +102,15 @@ Professional SRE leader with 20+ years of experience. I specialize in the inters
 
 ### Featured Infrastructure Projects
 
+#### [Prophet](https://github.com/holynakamoto/prophet) | **AIOps GitOps Platform** ⭐
+Predictive scaling and self-healing Kubernetes systems powered by ML-driven anomaly detection.
+
+#### [Blitz Gateway](https://github.com/holynakamoto/blitz-gateway) | **High-Performance Gateway**
+HTTP3/QUIC gateway implementation built with Zig and WASM for ultra-low latency.
+
+#### [GPU Autoscaler](https://github.com/holynakamoto/gpuautoscaler) | **K8s Controller**
+Custom Kubernetes controller for intelligent, workload-aware GPU resource scaling.
+
 #### [Backstage Platform](https://github.com/holynakamoto/backstage-platform) | **Developer Portal**
 Internal developer portal built on Backstage for service catalog management and developer self-service.
 
@@ -89,7 +118,14 @@ Internal developer portal built on Backstage for service catalog management and 
 Crossplane compositions for declarative AWS VPC provisioning with GitOps-native infrastructure management.
 
 #### [NexGen-AI SoC](https://github.com/holynakamoto/ngaisoc) | **GPU SoC Architecture**
-High-performance, scalable GPU System-on-Chip architecture optimized for AI workloads. Demonstrates architectural definition, performance/power trade-offs, and subsystem specification.
+High-performance GPU System-on-Chip architecture optimized for AI workloads.
+
+---
+
+### ✍️ Writing & Talks
+
+<!-- TODO: Add blog links when you start writing -->
+*Coming soon — planning posts on AIOps patterns, GPU scheduling strategies, and FinOps at scale.*
 
 ---
 
@@ -102,7 +138,3 @@ High-performance, scalable GPU System-on-Chip architecture optimized for AI work
 ### Get In Touch
 * **Email:** [nick.moore@pm.me](mailto:nick.moore@pm.me)
 * **Location:** Littleton, CO / Remote
-
-```
-
-**Next Step:** Would you like me to generate a custom tech-themed profile banner to sit at the very top of the page?
