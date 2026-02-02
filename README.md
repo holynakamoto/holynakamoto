@@ -124,8 +124,9 @@ High-performance GPU System-on-Chip architecture optimized for AI workloads.
 
 ### ✍️ Writing & Talks
 
-<!-- TODO: Add blog links when you start writing -->
-*Coming soon — planning posts on AIOps patterns, GPU scheduling strategies, and FinOps at scale.*
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@holynakamoto)
+
+Writing about AIOps patterns, GPU scheduling strategies, FinOps at scale, and the future of infrastructure.
 
 ---
 
