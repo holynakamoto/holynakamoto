@@ -4,7 +4,7 @@
 
 Professional SRE leader with 20+ years of experience. I specialize in the intersection of **High-Performance Computing (Rust/C++)**, **Cloud-Native Resilience (Kubernetes)**, and **Cost Intelligence (FinOps/AIOps)**. Currently pioneering self-healing platforms at Talkdesk.
 
-[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/nickmoore-sre)
+[Book a Call](mailto:nick.moore@pm.me) • [View Projects](#featured-infrastructure-projects) • [LinkedIn](https://linkedin.com/in/nicholasmoore)
 
 ---
 
